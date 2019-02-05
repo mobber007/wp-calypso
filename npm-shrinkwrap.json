@@ -8055,9 +8055,9 @@
 			"dev": true
 		},
 		"fuse.js": {
-			"version": "3.3.0",
-			"resolved": "https://registry.npmjs.org/fuse.js/-/fuse.js-3.3.0.tgz",
-			"integrity": "sha512-ESBRkGLWMuVkapqYCcNO1uqMg5qbCKkgb+VS6wsy17Rix0/cMS9kSOZoYkjH8Ko//pgJ/EEGu0GTjk2mjX2LGQ=="
+			"version": "3.3.1",
+			"resolved": "https://registry.npmjs.org/fuse.js/-/fuse.js-3.3.1.tgz",
+			"integrity": "sha512-Ranlb3nqh4Scw1ev5HvMoBUNHnhLceTGImSVf7ug87exLI75CfjhpCV5lFr1vHrAEn7fS80KZFaHCOznlGAG4A=="
 		},
 		"gauge": {
 			"version": "2.7.4",
